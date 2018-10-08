@@ -21,7 +21,7 @@ function whileLoop(num) {
 function doWhileLoop(arr) {
   
 do {arr.pop()}
-while (arr.length > 0);
+while (arr.length > 0 && );
 
 
 }
