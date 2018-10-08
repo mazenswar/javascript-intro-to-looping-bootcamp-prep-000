@@ -12,8 +12,8 @@ for (let i=0; i<25; i++) {
 
 function whileLoop(num) {
   while (num >= 0) {
-    console.log(num);
-    num--;
+    console.log(num--);
+    //num--;
   }
   console.log("done");
 }
